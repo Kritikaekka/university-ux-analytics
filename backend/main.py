@@ -1,4 +1,6 @@
 from fastapi import FastAPI
+
+app = FastAPI()
 from fastapi.middleware.cors import CORSMiddleware
 
 from database import collection
@@ -135,3 +137,7 @@ def submit_review(data: Review):
     return {
         "message": "Review submitted successfully"
     }
+
+@app.get("/")
+def home():
+    return {"message": "Backend running successfully"}
