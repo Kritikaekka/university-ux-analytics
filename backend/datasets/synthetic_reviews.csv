@@ -1,0 +1,271 @@
+name,section,rating,review,created_at
+Aarav,Library,4,"The library portal is much easier to navigate now.",2025-11
+Priya,Admissions,2,"The admission form is confusing and difficult to complete.",2025-11
+Rohan,Results,5,"Results are displayed much faster than before.",2025-11
+Sneha,Attendance Portal,3,"Attendance tracking works but the interface feels cluttered.",2025-11
+Aditya,Website Navigation,4,"Navigation menus are more organized now.",2025-12
+Kavya,Fee Payment,2,"Payment confirmation messages are unclear.",2025-12
+Rahul,Exam Portal,1,"The exam portal crashes frequently during submissions.",2025-12
+Ananya,Student Dashboard,5,"Dashboard widgets are now easier to understand.",2025-12
+Vikram,Course Registration,3,"Course registration is manageable but still slightly slow.",2026-01
+Neha,Library,4,"The search functionality in the library portal improved significantly.",2026-01
+Arjun,Admissions,2,"I cannot easily find scholarship information.",2026-01
+Ishita,Hostel Portal,4,"Hostel complaint submission became much simpler.",2026-01
+Dev,Website Navigation,5,"The homepage layout looks cleaner now.",2026-02
+Meera,Fee Payment,2,"The payment page still gives timeout errors.",2026-02
+Karan,Exam Portal,3,"Exam schedules are easier to access now.",2026-02
+Pooja,Student Dashboard,4,"The student dashboard is visually more appealing.",2026-02
+Yash,Attendance Portal,1,"Attendance data sometimes disappears unexpectedly.",2026-03
+Simran,Course Registration,5,"Registering for electives is much smoother now.",2026-03
+Aryan,Library,4,"The updated filters make book searching faster.",2026-03
+Nisha,Admissions,2,"Too many steps are required during registration.",2026-03
+Manav,Website Navigation,5,"Menus are intuitive and easy to locate.",2026-04
+Ritika,Fee Payment,3,"The fee payment workflow improved slightly.",2026-04
+Siddharth,Exam Portal,4,"Notifications about exam updates are clearer now.",2026-04
+Tanya,Hostel Portal,2,"Room allocation information is difficult to understand.",2026-04
+Krishna,Student Dashboard,5,"Graphs and academic summaries are extremely useful.",2026-05
+Aisha,Attendance Portal,4,"Attendance reports load much faster now.",2026-05
+Harsh,Course Registration,2,"Some buttons are still hard to locate.",2026-05
+Diya,Library,5,"The mobile experience for the library portal improved a lot.",2026-05
+Vivaan,Admissions,3,"The admission process is better but still needs simplification.",2026-05
+Sara,Website Navigation,5,"The website now feels modern and user friendly.",2026-05
+Reyansh,Library,4,"The library homepage is cleaner and easier to understand.",2025-11
+Kiara,Admissions,2,"The admission portal takes too long to load.",2025-11
+Dhruv,Exam Portal,1,"I lost my exam form because the page refreshed suddenly.",2025-11
+Anika,Website Navigation,5,"The updated menu structure is very intuitive.",2025-11
+Kabir,Fee Payment,3,"The payment process improved but receipts are delayed.",2025-11
+Myra,Attendance Portal,4,"Attendance summaries are now more readable.",2025-12
+Ayaan,Student Dashboard,5,"The dashboard design looks much more modern now.",2025-12
+Navya,Course Registration,2,"Elective selection is still confusing.",2025-12
+Veer,Library,4,"Search filters work faster than before.",2025-12
+Siya,Admissions,1,"I could not upload documents properly.",2025-12
+Laksh,Website Navigation,5,"Important sections are easier to locate now.",2026-01
+Avni,Hostel Portal,3,"The hostel portal works but the UI feels outdated.",2026-01
+Arnav,Exam Portal,2,"The portal freezes during hall ticket download.",2026-01
+Riya,Fee Payment,4,"Payment confirmations appear more quickly now.",2026-01
+Parth,Attendance Portal,5,"The attendance portal feels smoother after the update.",2026-01
+Ira,Student Dashboard,4,"The charts and analytics are very helpful.",2026-02
+Atharv,Library,3,"Some book categories are still difficult to browse.",2026-02
+Aadhya,Admissions,2,"Instructions are not clearly visible during registration.",2026-02
+Vihaan,Website Navigation,5,"Navigation between pages is seamless now.",2026-02
+Saanvi,Course Registration,3,"Course search became slightly easier.",2026-02
+Rudra,Exam Portal,1,"The exam portal logs me out repeatedly.",2026-03
+Amaira,Fee Payment,4,"Fee payment errors have reduced recently.",2026-03
+Shivansh,Attendance Portal,2,"The attendance export button is hard to find.",2026-03
+Khushi,Student Dashboard,5,"Everything is visually organized now.",2026-03
+Devansh,Library,4,"Book recommendations are now displayed properly.",2026-03
+Anvi,Admissions,3,"The registration workflow is more understandable.",2026-03
+Yuvraj,Website Navigation,5,"The sidebar navigation works perfectly now.",2026-04
+Prisha,Hostel Portal,2,"Complaint tracking is still confusing.",2026-04
+Aarush,Exam Portal,4,"Exam notifications are now timely and clear.",2026-04
+Aditi,Fee Payment,3,"The transaction flow improved but still needs optimization.",2026-04
+Shaurya,Attendance Portal,5,"Loading speed improved significantly.",2026-04
+Mahira,Student Dashboard,4,"Academic reports are now easier to interpret.",2026-05
+Vivaan,Library,5,"The mobile layout is finally responsive.",2026-05
+Anaya,Admissions,2,"Too many unnecessary fields during application.",2026-05
+Advik,Website Navigation,4,"The homepage redesign made browsing easier.",2026-05
+Zara,Course Registration,3,"Some buttons are still inconsistent.",2026-05
+Rishaan,Exam Portal,5,"The portal feels more reliable than before.",2026-05
+Inaaya,Fee Payment,2,"The payment gateway occasionally fails.",2026-05
+Krish,Attendance Portal,4,"Attendance charts are much easier to read.",2026-05
+Aarohi,Student Dashboard,5,"The dashboard now feels professional and clean.",2026-05
+Tanvi,Library,5,"The library portal is finally responsive on mobile devices.",2025-11
+Om,Admissions,2,"The application instructions are difficult to follow.",2025-11
+Reeva,Website Navigation,4,"Navigation paths are clearer than before.",2025-11
+Hriday,Exam Portal,1,"The portal crashed during assignment upload.",2025-11
+Ishaan,Fee Payment,3,"Payment pages load faster now but still feel cluttered.",2025-11
+Mira,Attendance Portal,4,"Attendance summaries are displayed more neatly.",2025-12
+Abeer,Student Dashboard,5,"The dashboard now gives a better academic overview.",2025-12
+Riddhi,Course Registration,2,"Course categories are difficult to understand.",2025-12
+Aryaveer,Library,4,"The search bar accuracy has improved significantly.",2025-12
+Samaira,Admissions,1,"I faced repeated login errors during registration.",2025-12
+Rehan,Website Navigation,5,"The menu redesign made the website easier to use.",2026-01
+Aarna,Hostel Portal,3,"Hostel announcements should be more visible.",2026-01
+Kabir,Exam Portal,2,"Downloading admit cards is still confusing.",2026-01
+Nyra,Fee Payment,4,"Transaction history is easier to access now.",2026-01
+Vivaan,Attendance Portal,5,"Attendance tracking feels much smoother now.",2026-01
+Tisha,Student Dashboard,4,"Visual reports are helping students a lot.",2026-02
+Aryan,Library,3,"Book categories need better organization.",2026-02
+Pranav,Admissions,2,"Important deadlines are not highlighted properly.",2026-02
+Kashvi,Website Navigation,5,"The updated homepage is visually clean.",2026-02
+Shaan,Course Registration,3,"Finding electives became easier after updates.",2026-02
+Mehak,Exam Portal,1,"The portal becomes slow during peak hours.",2026-03
+Vihaan,Fee Payment,4,"Payment status updates are now immediate.",2026-03
+Anshika,Attendance Portal,2,"The attendance report download option is hidden.",2026-03
+Devika,Student Dashboard,5,"The dashboard widgets are very informative.",2026-03
+Ritvik,Library,4,"Book filtering works properly now.",2026-03
+Aarav,Admissions,3,"The registration process is more structured.",2026-03
+Pari,Website Navigation,5,"Website navigation now feels intuitive.",2026-04
+Lakshay,Hostel Portal,2,"Hostel fee details are difficult to locate.",2026-04
+Kiara,Exam Portal,4,"Exam reminders are now displayed clearly.",2026-04
+Arjun,Fee Payment,3,"The payment interface improved but still needs polishing.",2026-04
+Sana,Attendance Portal,5,"Graphs and reports load much faster now.",2026-04
+Raghav,Student Dashboard,4,"The dashboard gives better performance insights.",2026-05
+Ayesha,Library,5,"The overall library UX feels modern now.",2026-05
+Ved,Admissions,2,"The registration form still feels overwhelming.",2026-05
+Mysha,Website Navigation,4,"Navigation icons are easier to recognize.",2026-05
+Ivaan,Course Registration,3,"Course recommendations are useful but limited.",2026-05
+Anika,Exam Portal,5,"Exam workflows are much more reliable now.",2026-05
+Rudransh,Fee Payment,2,"Payment failures still happen sometimes.",2026-05
+Mahika,Attendance Portal,4,"Attendance percentages are displayed clearly.",2026-05
+Ayaan,Student Dashboard,5,"The UI now feels clean and professional.",2026-05
+Riaan,Library,4,"The updated library dashboard is easier to understand.",2025-11
+Anvi,Admissions,2,"The admission workflow contains too many unnecessary steps.",2025-11
+Yashika,Website Navigation,5,"Menus are now properly organized and easy to use.",2025-11
+Krishiv,Exam Portal,1,"The portal stopped responding during form submission.",2025-11
+Mahi,Fee Payment,3,"The payment page works but still looks outdated.",2025-11
+Aariz,Attendance Portal,4,"Attendance records load more quickly now.",2025-12
+Trisha,Student Dashboard,5,"The dashboard analytics are much more useful now.",2025-12
+Daksh,Course Registration,2,"The elective registration page is confusing.",2025-12
+Myra,Library,4,"Finding books became easier after the redesign.",2025-12
+Abeer,Admissions,1,"I encountered repeated errors while uploading certificates.",2025-12
+Ishika,Website Navigation,5,"The new navigation layout feels intuitive.",2026-01
+Vihaan,Hostel Portal,3,"Hostel notices should appear more prominently.",2026-01
+Avika,Exam Portal,2,"Exam schedules are not grouped properly.",2026-01
+Aryan,Fee Payment,4,"Payment verification is faster than before.",2026-01
+Navya,Attendance Portal,5,"Attendance summaries are visually cleaner now.",2026-01
+Aadit,Student Dashboard,4,"Performance tracking features are very helpful.",2026-02
+Tanya,Library,3,"Some library categories are still difficult to locate.",2026-02
+Ritvik,Admissions,2,"The application form lacks clear instructions.",2026-02
+Aahana,Website Navigation,5,"Navigation between pages feels smooth now.",2026-02
+Kabir,Course Registration,3,"Course search functionality improved slightly.",2026-02
+Siya,Exam Portal,1,"The exam portal crashes during heavy usage.",2026-03
+Advik,Fee Payment,4,"The payment receipt system improved significantly.",2026-03
+Prisha,Attendance Portal,2,"Attendance export options are hidden.",2026-03
+Rudra,Student Dashboard,5,"The dashboard now feels modern and interactive.",2026-03
+Aarya,Library,4,"Book suggestions are now more relevant.",2026-03
+Harsh,Admissions,3,"The registration process is more manageable now.",2026-03
+Diya,Website Navigation,5,"The updated website design is much cleaner.",2026-04
+Vivaan,Hostel Portal,2,"Complaint status updates are difficult to find.",2026-04
+Saanvi,Exam Portal,4,"Hall ticket downloads are easier now.",2026-04
+Aarush,Fee Payment,3,"Payment flow improved but transaction speed varies.",2026-04
+Kriti,Attendance Portal,5,"Attendance graphs are displayed clearly.",2026-04
+Riyan,Student Dashboard,4,"Student reports are much easier to interpret.",2026-05
+Aisha,Library,5,"The mobile library experience is excellent now.",2026-05
+Dev,Admissions,2,"Too many fields are required during registration.",2026-05
+Anaya,Website Navigation,4,"Icons and menus are easier to recognize.",2026-05
+Krish,Course Registration,3,"The UI improved but filters are still limited.",2026-05
+Meher,Exam Portal,5,"Exam updates are now communicated properly.",2026-05
+Lakshya,Fee Payment,2,"The payment gateway still occasionally freezes.",2026-05
+Sara,Attendance Portal,4,"Attendance tracking became more accurate.",2026-05
+Aryaveer,Student Dashboard,5,"The dashboard finally feels user friendly.",2026-05
+Aarohi,Library,5,"The library interface is now much easier to navigate.",2025-11
+Vihaan,Admissions,2,"The application portal is still confusing for new students.",2025-11
+Mysha,Website Navigation,4,"Navigation menus are cleaner than before.",2025-11
+Rudransh,Exam Portal,1,"The exam portal froze while uploading documents.",2025-11
+Anika,Fee Payment,3,"Payment pages are better but still inconsistent.",2025-11
+Devansh,Attendance Portal,4,"Attendance summaries are now displayed properly.",2025-12
+Aadhya,Student Dashboard,5,"The student dashboard feels modern after the redesign.",2025-12
+Ivaan,Course Registration,2,"The registration process is difficult to understand.",2025-12
+Kashvi,Library,4,"Searching for books became much faster.",2025-12
+Aryan,Admissions,1,"I faced errors during account verification.",2025-12
+Prisha,Website Navigation,5,"The homepage redesign improved usability a lot.",2026-01
+Kabir,Hostel Portal,3,"Hostel notices should be highlighted more clearly.",2026-01
+Mahika,Exam Portal,2,"Exam timetables are not properly organized.",2026-01
+Ayaan,Fee Payment,4,"Payment confirmations appear instantly now.",2026-01
+Riya,Attendance Portal,5,"Attendance reports are much easier to read.",2026-01
+Shaurya,Student Dashboard,4,"The analytics widgets are extremely useful.",2026-02
+Tara,Library,3,"Some sections of the library portal remain cluttered.",2026-02
+Raghav,Admissions,2,"Instructions during registration are unclear.",2026-02
+Kiara,Website Navigation,5,"Switching between pages feels seamless now.",2026-02
+Aariz,Course Registration,3,"Course search is better but filters need improvement.",2026-02
+Saanvi,Exam Portal,1,"The exam portal becomes slow during submissions.",2026-03
+Yuvraj,Fee Payment,4,"Transaction failures reduced significantly.",2026-03
+Avni,Attendance Portal,2,"The export feature is difficult to locate.",2026-03
+Krishiv,Student Dashboard,5,"Everything is organized and visually appealing.",2026-03
+Mira,Library,4,"Book categories are easier to browse now.",2026-03
+Reyansh,Admissions,3,"The application workflow improved slightly.",2026-03
+Amaira,Website Navigation,5,"Navigation icons are now very intuitive.",2026-04
+Dhruv,Hostel Portal,2,"Room allocation details are confusing.",2026-04
+Anvi,Exam Portal,4,"Exam notifications are displayed clearly.",2026-04
+Laksh,Fee Payment,3,"The fee payment process improved but still feels slow.",2026-04
+Navya,Attendance Portal,5,"Attendance charts load much faster now.",2026-04
+Abeer,Student Dashboard,4,"The dashboard provides clear academic insights.",2026-05
+Tisha,Library,5,"The library mobile experience is finally optimized.",2026-05
+Om,Admissions,2,"The admission portal still asks for too much information.",2026-05
+Reeva,Website Navigation,4,"The overall website structure feels more logical.",2026-05
+Hriday,Course Registration,3,"The interface is cleaner but navigation can improve.",2026-05
+Ishaan,Exam Portal,5,"The exam system feels much more stable now.",2026-05
+Mahi,Fee Payment,2,"The payment page still crashes occasionally.",2026-05
+Abeer,Attendance Portal,4,"Attendance percentages are now clearly visible.",2026-05
+Samaira,Student Dashboard,5,"The dashboard design looks professional now.",2026-05
+Parth,Library,4,"The library search experience has improved noticeably.",2025-11
+Ananya,Admissions,2,"The admission portal still has too many confusing sections.",2025-11
+Vivaan,Website Navigation,5,"Menus and navigation paths are now easier to follow.",2025-11
+Diya,Exam Portal,1,"The portal logged me out while submitting my exam form.",2025-11
+Krish,Fee Payment,3,"Payment flow improved but still lacks proper feedback messages.",2025-11
+Aarav,Attendance Portal,4,"Attendance reports are more organized than before.",2025-12
+Kiara,Student Dashboard,5,"The dashboard interface now feels intuitive.",2025-12
+Yash,Course Registration,2,"The elective registration page is difficult to understand.",2025-12
+Ritika,Library,4,"Finding study materials became much simpler.",2025-12
+Kabir,Admissions,1,"The document upload system failed repeatedly.",2025-12
+Sara,Website Navigation,5,"The homepage redesign made browsing very smooth.",2026-01
+Ayaan,Hostel Portal,3,"Hostel updates should appear more prominently.",2026-01
+Prisha,Exam Portal,2,"Exam schedules are still difficult to locate.",2026-01
+Aryan,Fee Payment,4,"Payment receipts are generated faster now.",2026-01
+Aisha,Attendance Portal,5,"Attendance tracking feels accurate and responsive.",2026-01
+Dev,Student Dashboard,4,"The dashboard statistics are easier to understand.",2026-02
+Meher,Library,3,"Some categories in the library portal remain cluttered.",2026-02
+Rudra,Admissions,2,"The registration workflow still feels overwhelming.",2026-02
+Tanya,Website Navigation,5,"Navigation icons are clearer than before.",2026-02
+Lakshya,Course Registration,3,"Course filters work better after the update.",2026-02
+Mahika,Exam Portal,1,"The exam portal slows down during peak usage.",2026-03
+Raghav,Fee Payment,4,"Payment failures reduced significantly.",2026-03
+Aarohi,Attendance Portal,2,"Attendance export options are hard to discover.",2026-03
+Vihaan,Student Dashboard,5,"The dashboard now provides better academic insights.",2026-03
+Myra,Library,4,"Library recommendations are now displayed correctly.",2026-03
+Abeer,Admissions,3,"The application process improved slightly this semester.",2026-03
+Ishika,Website Navigation,5,"Website sections are now easier to access.",2026-04
+Navya,Hostel Portal,2,"Complaint tracking still feels confusing.",2026-04
+Aadit,Exam Portal,4,"Exam reminders are displayed much more clearly now.",2026-04
+Kashvi,Fee Payment,3,"The payment interface improved but still needs polishing.",2026-04
+Shaan,Attendance Portal,5,"Attendance charts are clean and responsive now.",2026-04
+Aarna,Student Dashboard,4,"Student performance summaries are very helpful.",2026-05
+Aryaveer,Library,5,"The library portal finally works well on mobile.",2026-05
+Amaira,Admissions,2,"The admission form still contains unnecessary fields.",2026-05
+Daksh,Website Navigation,4,"The updated navigation feels modern and efficient.",2026-05
+Riya,Course Registration,3,"The interface is cleaner but some actions remain hidden.",2026-05
+Avika,Exam Portal,5,"Exam workflows are much smoother than before.",2026-05
+Aariz,Fee Payment,2,"The payment gateway occasionally freezes during checkout.",2026-05
+Pari,Attendance Portal,4,"Attendance summaries are displayed very clearly now.",2026-05
+Ritvik,Student Dashboard,5,"The dashboard now looks polished and professional.",2026-05
+Aarush,Library,5,"The library portal redesign made searching much easier.",2025-11
+Kiara,Admissions,2,"The admission process is still difficult to understand.",2025-11
+Vivaan,Website Navigation,4,"Navigation menus are now simpler and cleaner.",2025-11
+Anika,Exam Portal,1,"The portal crashed during exam registration.",2025-11
+Rudra,Fee Payment,3,"Payment pages improved slightly but remain inconsistent.",2025-11
+Myra,Attendance Portal,4,"Attendance summaries are displayed more clearly now.",2025-12
+Aryan,Student Dashboard,5,"The dashboard interface feels much more modern.",2025-12
+Aadhya,Course Registration,2,"Course registration still takes too many steps.",2025-12
+Kabir,Library,4,"The updated filters make book searches faster.",2025-12
+Saanvi,Admissions,1,"The application portal showed repeated server errors.",2025-12
+Laksh,Website Navigation,5,"The homepage navigation is now intuitive.",2026-01
+Prisha,Hostel Portal,3,"Hostel announcements should be easier to notice.",2026-01
+Vihaan,Exam Portal,2,"Exam details are still difficult to locate quickly.",2026-01
+Tanya,Fee Payment,4,"Payment confirmations appear instantly now.",2026-01
+Ayaan,Attendance Portal,5,"Attendance reports are much easier to read.",2026-01
+Riya,Student Dashboard,4,"The analytics section is extremely helpful now.",2026-02
+Raghav,Library,3,"Some sections still look visually cluttered.",2026-02
+Kriti,Admissions,2,"Instructions during registration are not visible enough.",2026-02
+Abeer,Website Navigation,5,"Navigation between pages is seamless after the update.",2026-02
+Parth,Course Registration,3,"Course recommendations are useful but limited.",2026-02
+Amaira,Exam Portal,1,"The portal slows down during heavy usage.",2026-03
+Devansh,Fee Payment,4,"Transaction failures have reduced recently.",2026-03
+Anvi,Attendance Portal,2,"The attendance export option is hidden inside menus.",2026-03
+Krishiv,Student Dashboard,5,"The dashboard is now visually appealing and clean.",2026-03
+Aarohi,Library,4,"Book recommendations are now more accurate.",2026-03
+Yuvraj,Admissions,3,"The registration workflow improved slightly this semester.",2026-03
+Aisha,Website Navigation,5,"The updated design feels modern and user friendly.",2026-04
+Ishaan,Hostel Portal,2,"Hostel room allocation details are confusing.",2026-04
+Mahika,Exam Portal,4,"Exam notifications are now easier to notice.",2026-04
+Aryaveer,Fee Payment,3,"The payment flow improved but still feels slow.",2026-04
+Sara,Attendance Portal,5,"Attendance graphs now load instantly.",2026-04
+Ritvik,Student Dashboard,4,"Performance summaries are easier to interpret now.",2026-05
+Aarna,Library,5,"The library mobile interface is finally optimized.",2026-05
+Dhruv,Admissions,2,"The application form still asks for too much information.",2026-05
+Tisha,Website Navigation,4,"Menus and icons are now much easier to recognize.",2026-05
+Navya,Course Registration,3,"The interface is cleaner but some buttons are unclear.",2026-05
+Aadit,Exam Portal,5,"The exam workflow feels stable and reliable now.",2026-05
+Kashvi,Fee Payment,2,"The payment page occasionally freezes during checkout.",2026-05
+Reyansh,Attendance Portal,4,"Attendance percentages are displayed very clearly now.",2026-05
+Mira,Student Dashboard,5,"The dashboard finally feels professional and polished.",2026-05
